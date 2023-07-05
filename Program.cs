@@ -70,6 +70,9 @@ class aula28 {
         Jogador j5 = new Jogador("BenegundesFirno", 0, false);
 
         j1.Info();
+        j2.Info();
+        j3.Info();
+        j4.Info();
 
         inimigo inimigo = new inimigo();
 
