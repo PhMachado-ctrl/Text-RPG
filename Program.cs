@@ -35,7 +35,7 @@ public class Jogador
         nome = n;
     }
 
-    public Info()
+    public void Info()
     {
         Console.WriteLine("Nome Jogador...:{0}", nome);
         Console.WriteLine("Energia Jogador:{0}", energia);
@@ -61,7 +61,7 @@ class aula28 {
  
     static void Main()
     {
-        string nome1;
+        //string nome1;
 
         Jogador j1 = new Jogador();
         Jogador j2 = new Jogador("clementina");
@@ -70,26 +70,29 @@ class aula28 {
         Jogador j5 = new Jogador("BenegundesFirno", 0, false);
 
         j1.Info();
+        Console.WriteLine(" ");
         j2.Info();
+        Console.WriteLine(" ");
         j3.Info();
+        Console.WriteLine(" ");
         j4.Info();
 
-        inimigo inimigo = new inimigo();
+    /*inimigo inimigo = new inimigo();
 
-        Console.WriteLine("O nome do Jogador 1 é {0}", j1.nome);
-        Console.WriteLine("O nome do Jogador 2 é {0}", j2.nome);
-        
-        j1.energia = 50;
-        Console.WriteLine("A energia de {0} é: {1}",j1.nome, j1.energia);
-        Console.WriteLine("A energia do Jogador 2 é: {0}", j2.energia);
+    Console.WriteLine("O nome do Jogador 1 é {0}", j1.nome);
+    Console.WriteLine("O nome do Jogador 2 é {0}", j2.nome);
+    
+    j1.energia = 50;
+    Console.WriteLine("A energia de {0} é: {1}",j1.nome, j1.energia);
+    Console.WriteLine("A energia do Jogador 2 é: {0}", j2.energia);
 
-        Console.WriteLine("O inimigo causa {0} de dano no jogador 1 e 2", inimigo.dano);
-        j1.energia -= inimigo.dano;
-        j2.energia -= inimigo.dano;
+    Console.WriteLine("O inimigo causa {0} de dano no jogador 1 e 2", inimigo.dano);
+    j1.energia -= inimigo.dano;
+    j2.energia -= inimigo.dano;
 
-        Console.WriteLine("A energia do Jogador 1 é: {0}", j1.energia);
-        Console.WriteLine("A energia do Jogador 2 é: {0}", j2.energia);
+    Console.WriteLine("A energia do Jogador 1 é: {0}", j1.energia);
+    Console.WriteLine("A energia do Jogador 2 é: {0}", j2.energia);
 
-        Console.WriteLine("Jogador 1 está {0} e Jogador 2 está {1}", j1.esta_vivo(j1.energia), j2.esta_vivo(j2.energia));
+    Console.WriteLine("Jogador 1 está {0} e Jogador 2 está {1}", j1.esta_vivo(j1.energia), j2.esta_vivo(j2.energia));*/
     }
 }
