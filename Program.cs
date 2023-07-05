@@ -63,8 +63,13 @@ class aula28 {
     {
         string nome1;
 
-        Jogador j1 = new Jogador(nome1);
+        Jogador j1 = new Jogador();
         Jogador j2 = new Jogador("clementina");
+        Jogador j3 = new Jogador("clovis", 100);
+        Jogador j4 = new Jogador("Jaire", 30, true);
+        Jogador j5 = new Jogador("BenegundesFirno", 0, false);
+
+        j1.Info();
 
         inimigo inimigo = new inimigo();
 
