@@ -1,0 +1,15 @@
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\bin\Debug\net7.0\CBF.exe
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\bin\Debug\net7.0\CBF.deps.json
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\bin\Debug\net7.0\CBF.runtimeconfig.json
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\bin\Debug\net7.0\CBF.dll
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\bin\Debug\net7.0\CBF.pdb
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\CBF.csproj.AssemblyReference.cache
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\CBF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\CBF.AssemblyInfoInputs.cache
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\CBF.AssemblyInfo.cs
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\CBF.csproj.CoreCompileInputs.cache
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\CBF.dll
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\refint\CBF.dll
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\CBF.pdb
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\CBF.genruntimeconfig.cache
+C:\Users\Stherfany machado\OneDrive\Documentos\csharp\CBF\obj\Debug\net7.0\ref\CBF.dll
