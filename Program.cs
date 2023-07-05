@@ -39,7 +39,14 @@ public class Jogador
     {
         Console.WriteLine("Nome Jogador...:{0}", nome);
         Console.WriteLine("Energia Jogador:{0}", energia);
-        Console.WriteLine("Estado Jogador.:{0}", vivo);
+        Console.WriteLine("Estado Jogador.:{0}\n", vivo);
+    }
+
+     public void Info(string n)
+    {
+        Console.WriteLine("Nome Jogador...:{0}", nome);
+        Console.WriteLine("Energia Jogador:{0}", energia);
+        Console.WriteLine("Estado Jogador.:{0}\n", vivo);
     }
 
 
@@ -70,11 +77,8 @@ class aula28 {
         Jogador j5 = new Jogador("BenegundesFirno", 0, false);
 
         j1.Info();
-        Console.WriteLine(" ");
         j2.Info();
-        Console.WriteLine(" ");
         j3.Info();
-        Console.WriteLine(" ");
         j4.Info();
 
     /*inimigo inimigo = new inimigo();
